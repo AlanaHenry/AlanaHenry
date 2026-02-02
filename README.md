@@ -41,7 +41,7 @@ Tools I'm getting comfortable with. The more blue squares, the less I have to Go
 ## 🗂️ Projects | Portfolio
 Welcome to my data analytics portfolio. 👋
 
-All my projects live [HERE]
+All my projects live [HERE](https://github.com/AlanaHenry/data-analytics-portfolio.git) 📍
 
 ---
 
