@@ -4,7 +4,7 @@ I'm an attorney transitioning deeper into data and analytics.
 By day, I work with contracts and legal frameworks.
 By night, I quarrel with csv files and get creative in Tableau.
 
-I don't have all the answers yet, and I definetly haven't 'mastered' the tools, but I'm really good at spotting contradictions and asking the right questions, so I'd say I'm off to a good start!
+I don't have all the answers yet, and I definitely haven't 'mastered' the tools, but I'm really good at spotting contradictions and asking the right questions, so I'd say I'm off to a good start!
 
 🌱 Off-Screen: 
 Trying (and sometimes failing) to keep my houseplants alive.
