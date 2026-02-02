@@ -38,6 +38,12 @@ Tools I'm getting comfortable with. The more blue squares, the less I have to Go
 • **Power BI:** ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ (haven't even downloaded it yet)
 
 ---
+## 🗂️ Projects | Portfolio
+Welcome to my data analytics portfolio. 👋
+
+All my projects live [HERE]
+
+---
 
 ## 🌱 Featured Project: The Houseplant Resilience Project
 
@@ -48,6 +54,8 @@ This was my first deep dive into data. I analyzed 49 houseplants to help a nurse
 • **The Lawyer Win:** Flagged toxic plants; safety first, lawsuits later!
 
 👉 [Click here to see my first-ever Tableau Dashboard!](https://public.tableau.com/views/PlantResilienceProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+Project details may viewed on Github [HERE](https://github.com/AlanaHenry/Houseplant-Resilience-Project.git)
 
 ---
 
