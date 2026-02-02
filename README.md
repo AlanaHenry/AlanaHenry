@@ -47,7 +47,7 @@ This was my first deep dive into data. I analyzed 49 houseplants to help a nurse
 
 • **The Lawyer Win:** Flagged toxic plants; safety first, lawsuits later!
 
-👉 Click here to see my first-ever Tableau Dashboard!
+👉 [Click here to see my first-ever Tableau Dashboard!](https://public.tableau.com/views/PlantResilienceProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -73,7 +73,7 @@ Currently accepting conversations with:
 
 Let's talk data, AI ethics, law & tech... or why Fiddle Leaf Figs act like they pay rent. 😮‍💨
 
-**LinkedIn | Tableau Public**
+[My LinkedIn](https://www.linkedin.com/in/alanahenry-law-ai/) | [My Tableau Public Prolfile](https://public.tableau.com/app/profile/alana.henry1701/vizzes)
 
 
 
