@@ -15,7 +15,7 @@ This GitHub documents my learning journey; projects, experiments, mistakes, and 
 ## 📈 The "Work in Progress" Tracker
 
 
-• **SQL & R:** Currently in the "why is this ccode not working?" phase of my journey. (Progress > Perfection).
+• **SQL & R:** Currently in the "why is this code not working?" phase of my journey. (Progress > Perfection).
 
 ---
 
@@ -28,7 +28,7 @@ Tools I'm getting comfortable with. The more blue squares, the less I have to Go
 
 • **Legal Knowledge:** 🟦 🟦 🟦 🟦 🟦 🟦 (not omniscient, just very prepared)
 
-• **SQL / R:** 🟦 ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ (writes SELECTs with confidence. JOINs require encouragement)
+• **SQL / R:** 🟦 ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ (I write SELECTs with confidence. JOINs require encouragement)
 
 • **Power BI:** ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ (haven't even downloaded it yet)
 
@@ -50,7 +50,7 @@ This was my first deep dive into data. I analyzed 49 houseplants to help a nurse
 
 👉 [Click here to see my first-ever Tableau Dashboard!](https://public.tableau.com/views/PlantResilienceProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-Project details may viewed on Github [HERE](https://github.com/AlanaHenry/Houseplant-Resilience-Project.git)
+Project details may be viewed on my Github [HERE](https://github.com/AlanaHenry/Houseplant-Resilience-Project.git)
 
 ---
 
