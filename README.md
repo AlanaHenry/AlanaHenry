@@ -16,9 +16,6 @@ This GitHub documents my learning journey; projects, experiments, mistakes, and 
 ## 📈 The "Work in Progress" Tracker
 Beginner mode: currently learning, breaking things, and fixing them.
 
-• **Learning to Visualize:** Making Tableau look like art while actually being useful ( My first project is live below!📚)
-
-• **The Logic Leap:** Moving from simple Excel math to building risk models that account for things like systematic failure and "The Multi-Factor Trap."
 
 • **SQL & R:** Currently in the "why is this ccode not working?" phase of my journey. (Progress > Perfection).
 
