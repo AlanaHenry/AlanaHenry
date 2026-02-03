@@ -14,7 +14,6 @@ This GitHub documents my learning journey; projects, experiments, mistakes, and 
 ---
 
 ## 📈 The "Work in Progress" Tracker
-Beginner mode: currently learning, breaking things, and fixing them.
 
 
 • **SQL & R:** Currently in the "why is this ccode not working?" phase of my journey. (Progress > Perfection).
