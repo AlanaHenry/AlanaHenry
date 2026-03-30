@@ -28,7 +28,9 @@ Tools I'm getting comfortable with. The more blue squares, the less I have to Go
 
 • **Legal Knowledge:** 🟦 🟦 🟦 🟦 🟦 🟦 (not omniscient, just very prepared)
 
-• **SQL / R:** 🟦 ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ (I write SELECTs with confidence. JOINs require encouragement)
+• **SQL:** 🟦 ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ (I write SELECTs with confidence. JOINs require encouragement)
+
+• **Python / R:** ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ (We’ve met. I wouldn’t say we’re friends yet)
 
 • **Power BI:** ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ (haven't even downloaded it yet)
 
