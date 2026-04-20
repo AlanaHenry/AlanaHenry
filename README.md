@@ -78,7 +78,7 @@ Currently accepting conversations with:
 
 Let's talk data, AI ethics, law & tech... or why Fiddle Leaf Figs act like they pay rent. 😮‍💨
 
-[My LinkedIn](https://www.linkedin.com/in/alanahenry-law-ai/) | [My Tableau Public Prolfile](https://public.tableau.com/app/profile/alana.henry1701/vizzes)
+[My LinkedIn](https://www.linkedin.com/in/alanahenry-law-data/) | [My Tableau Public Prolfile](https://public.tableau.com/app/profile/alana.henry1701/vizzes)
 
 
 
