@@ -42,17 +42,17 @@ All my projects live [HERE](https://github.com/AlanaHenry/data-analytics-portfol
 
 ---
 
-## 🌱 Featured Project: The Houseplant Resilience Project
+## 🏡 Featured Project: Did The Sims 4 Forget How To Simulate Life?
 
-This was my first deep dive into data. I analyzed 49 houseplants to help a nursery reduce plant failure through better customer guidance.
+A data-driven look at 12 years of The Sims 4 to see if the "Life Simulator" label still fits.
 
-• **The "Aha!" Moment:** Realizing that plant failure is rarely caused by one mistake. Instead, problems emerge from a breakdown across light, water, and routine, especially when expectations aren't clearly communicated.
+• **The "Aha!" Moment:** Realizing that the sheer volume of "Aesthetic Kits" has mathematically outpaced the release of core gameplay mechanics.
 
-• **The Lawyer Win:** Flagged toxic plants; safety first, lawsuits later!
+• **The Lawyer Win:** Proved with 98 data points that the Simulation isn't dead, it was just evicted to make room for more couches. 😵‍💫
 
-👉 [Click here to see my first-ever Tableau Dashboard!](https://public.tableau.com/views/PlantResilienceProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+👉 [Click here to see my Tableau Dashboard!](https://public.tableau.com/views/TheSimsPriorityGap/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-Project details may be viewed on my Github [HERE](https://github.com/AlanaHenry/Houseplant-Resilience-Project.git)
+Project details may be viewed on my Github [HERE](https://github.com/AlanaHenry/The-Sims-Priority-Gap.git)
 
 ---
 
